@@ -1,7 +1,6 @@
 # 🐧 Von Giedy
 
  <small>- 🎓 Computer Science student at Ateneo de Davao University</small>
- 
  <small>- 💻 Frontend Developer</small>
 
 ---
