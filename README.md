@@ -1,11 +1,11 @@
 # 🐧 Von Giedy
 
- - 🎓 Computer Science student at Ateneo de Davao University  
- - 💻 Frontend Developer
+ <small>- 🎓 Computer Science student at Ateneo de Davao University<s/mall>
+ <small>- 💻 Frontend Developer</small>
 
 ---
 
-## Current Interest: 
+### Current Interest: 
 
  - Generating interests...
 
