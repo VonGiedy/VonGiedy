@@ -1,27 +1,23 @@
+
 # 🐧 Von Giedy
 
  <small>- 🎓 Computer Science student at Ateneo de Davao University</small>
+ <small>- 💻 Frontend Developer (In Progress)</small>
  
- <small>- 💻 Frontend Developer</small>
+---
+><small>A personal portfolio showcasing my projects, skills, and CS journey. 👨‍💻</small>
+
+---
+#### Current Interests:
+ <small>- 🖌️ Frontend Development (React, HTML/CSS/JS)</small>
+<small>- 🤖 Interested in AI and Machine Learning</small>
+<small>- 🏗️ Building personal projects in Java and C++</small>
 
 ---
 
-### Current Interest: 
+##### Social Media:
 
- - Generating interests...
+- [![Facebook](https://commons.wikimedia.org/wiki/File:Facebook_Logo_%282019%29.png)](https://www.facebook.com/vongiedy.aguilar/)
 
 
-<!--
-**VonGiedy/VonGiedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
