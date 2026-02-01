@@ -1,4 +1,13 @@
-## Hi there 👋
+## 🚀 Von Giedy
+---
+Computer Science Student in Ateneo de Davao University
+Frontend Developer
+---
+
+#Current Interest: 
+
+ - Generating interests...
+
 
 <!--
 **VonGiedy/VonGiedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
