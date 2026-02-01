@@ -17,7 +17,17 @@
 
 ##### Social Media:
 
-- [![Facebook](https://en.wikipedia.org/w/index.php?curid=68503708)](https://www.facebook.com/vongiedy.aguilar/)
+
+
+<a href="https://www.facebook.com/vongiedy.aguilar/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30">
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vongiedy.aguilar/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png" width="30">
+</a>
+
+
+
 
 
  
