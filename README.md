@@ -1,7 +1,8 @@
-# 🚀 Von Giedy
+# 🐧 Von Giedy
 
-Computer Science Student in Ateneo de Davao University
+Computer Science student at Ateneo de Davao University  
 Frontend Developer
+
 ---
 
 ## Current Interest: 
